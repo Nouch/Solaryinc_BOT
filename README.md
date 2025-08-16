@@ -1,4 +1,3 @@
-'''
 # Solaryinc Discord Bot
 
 Bot Python pour la communauté Solaryinc : gestion des rôles Discord, inscriptions via DM, alertes Twitch en live.
