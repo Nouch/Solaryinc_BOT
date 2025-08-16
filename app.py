@@ -188,7 +188,7 @@ async def on_ready():
         # Si aucun message trouvé, on envoie un nouveau message avec boutons
         print("✅ Envoi du message avec boutons car aucun existant trouvé.")
         embed = discord.Embed(
-            title="Bienvenue sur Solaryinc",
+            title="Bienvenue sur le serveur",
             description="Choisis une des options ci-dessous pour rejoindre la communauté ou faire une demande de membre vérifié.",
             color=discord.Color.blue()
         )
